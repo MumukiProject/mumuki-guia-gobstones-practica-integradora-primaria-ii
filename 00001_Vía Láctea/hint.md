@@ -1,0 +1,1 @@
+Si definís un nuevo procedimiento es importante que le pongas un nombre simple que dé la idea de lo que hace para quien lo lea. :wink:
