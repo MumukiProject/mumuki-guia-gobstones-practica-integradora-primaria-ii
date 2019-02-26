@@ -1,0 +1,3 @@
+¡Excelente! Phoenix encontró hielo :snowflake:. Los robots que se envían a investigar los cuerpos celestes se llaman **sondas espaciales**. Phoenix fue una sonda que mandaron a Marte para determinar si pudo haber vida, ver cómo era el clima, estudiar la tierra y tratar de encontrar agua en algún estado. 
+
+Sigamos investigando el resto de los planetas del Sistema Solar. Pero con cuidado :warning:, porque para llegar al próximo tendremos que ¡atravesar el Cinturón de Asteroides! Esperemos no chocar. :persevere:
