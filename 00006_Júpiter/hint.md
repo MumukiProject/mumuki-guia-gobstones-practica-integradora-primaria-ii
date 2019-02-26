@@ -1,0 +1,1 @@
+Es importante buscar en cada posición alrededor de Júpiter. Por eso, deberás repetir el procedimiento de observar y anotar las lunas hasta que des la vuelta entera.
