@@ -1,0 +1,5 @@
+¡Sí, era la Luna! :smiley: ¿Pero por qué tiene 29 fases distintas? :flushed:
+
+Cuando está entre el Sol y la Tierra :sun_with_face::last_quarter_moon::earth_americas:, solo se ilumina la cara que no podemos ver. La cara visible queda oscura y se la llama **Luna Nueva** :new_moon:. Pero, cada día avanza, se ilumina más y más, llamándose **Creciente** :waning_crescent_moon:. Es fácil de reconocer porque se ve como una **C** :wink:. Está **Llena** cuando la vemos totalmente iluminada :full_moon:, y **Decreciente** o **Menguante** :first_quarter_moon: cuando se vuelve a achicar hasta volver a empezar. En ese caso la veremos como una **D**.
+
+¿Y por qué dicen que la Luna miente? Porque en el hemisferio Norte la ven al revés de como la vemos en el Sur: como una _D_ cuando _crece_ y una _C_ cuando _decrece_. :open_mouth:
