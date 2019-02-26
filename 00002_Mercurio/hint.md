@@ -1,0 +1,1 @@
+`Calcular temperatura` es un procedimiento que hace los cálculos necesarios a partir de un número que le demos como dato. Por eso, podemos agregarle un número fijo o una cuenta que dé otro número como resultado.
