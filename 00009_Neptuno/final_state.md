@@ -1,5 +1,5 @@
 <gs-board without-header> GBB/1.0
-size 4 3
+size 5 3
 cell 0 1 Azul 1 Negro 1 
 cell 1 1 Azul 1 
 cell 2 1 Azul 1 
