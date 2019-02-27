@@ -1,0 +1,3 @@
+¡Excelente! Acabás de usar todos tus conocimientos para resolver estos grandes problemas :sunglasses:. Lo genial de la programación es que puedas combinar las herramientas aprendidas de muchísimas formas distintas logrando crear muchas cosas. 
+
+Peeero... ¡siempre hay más para aprender! :raising_hand: Y es muy importante seguir jugando y descubriendo para crear soluciones aún má grandes. ¡Así que continuemos descifrando qué más hay! :smile:
