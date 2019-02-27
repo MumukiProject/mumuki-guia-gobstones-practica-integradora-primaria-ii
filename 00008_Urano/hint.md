@@ -1,0 +1,1 @@
+Recordá que podés construir tus propios procedimientos. En este caso, podrías hacer uno que resuelva el problema de ver qué dibujo poner según la estación, ya que tendrás que usarlo varias veces. :wink:
