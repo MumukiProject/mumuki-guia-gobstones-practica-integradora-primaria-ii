@@ -1,0 +1,1 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria-ii/master/assets/attires/config_1551292925303.json"></gs-attire>
