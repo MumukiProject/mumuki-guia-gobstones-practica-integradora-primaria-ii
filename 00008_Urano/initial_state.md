@@ -9,5 +9,5 @@ cell 2 1 Azul 4
 cell 0 0 Rojo 3 
 cell 1 0 Azul 3 
 cell 2 0 Rojo 4 
-head 0 0
+head 1 2
  </gs-board>
