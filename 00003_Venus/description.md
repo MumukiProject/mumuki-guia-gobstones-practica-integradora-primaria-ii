@@ -6,4 +6,4 @@ Llegamos a Venus. Le suelen decir el planeta hermano de la Tierra porque se pare
 
 Pero… ya que tenemos un procedimiento para calcular y anotar la temperatura, ¡calculémoslo! :stuck_out_tongue:
 
-> Ejecutá el programa que hiciste para ver qué temperatura hace durante el día y durante la noche en Venus. ¿Habrá tanta diferencia como en Mercurio?
+> Ejecutá el `programa` que hiciste para ver qué temperatura hace durante el día y durante la noche en Venus. ¿Habrá tanta diferencia como en Mercurio?
