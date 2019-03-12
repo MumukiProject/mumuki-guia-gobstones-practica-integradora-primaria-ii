@@ -3,7 +3,8 @@ Al leer el nombre de esta lección quizás pienses que aprendimos un lenguaje al
 ¡Recorrámoslos para aprender un poco más de cada uno! :rocket:
 
 Y por si te quedaban dudas de cómo funciona la regla para recordarlos:
-<br>
+
+
 **Mer**curio
 <br>
 **ve**nus
