@@ -1,5 +1,8 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria-ii/master/assets/attires/config_1551292347632.json"></gs-attire>
 
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria-ii/master/assets/toolbox_1552416002661.xml"></gs-toolbox>
+
+
 Al principio creían que era una estrella :star2:, pero gracias al telescopio descubrieron que era un planeta: ¡**Urano**! Gira al revés de como giran el resto de los planetas, y está casi acostado sobre su plano de traslación, con el eje de rotación apuntando al Sol. :point_right::sun_with_face:
 
 Eso hace que tenga solo dos estaciones: 
