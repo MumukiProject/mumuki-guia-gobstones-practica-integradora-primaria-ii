@@ -5,4 +5,4 @@ expectations:
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Uses:MoverSistemaSolar
+  inspection: Uses:MoverSistemaSolarAl_
