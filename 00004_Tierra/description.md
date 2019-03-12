@@ -7,4 +7,4 @@
 
 A diferencia de Mercurio y Venus, la Tierra tiene un satélite natural que se traslada alrededor de ella. Tarda 29 días en dar una vuelta, y cada día la vemos con una forma diferente. También rota alrededor de su eje mostrándonos solo una de sus caras :full_moon_with_face: y dejando la otra oculta :new_moon_with_face:. Es blanca, redonda y algunos dicen que miente. ¿Te imaginás quién es? :ok_woman:
 
->  Construí el programa para que le saque una foto a la Luna para registrar cómo se ve desde la Tierra. Luego `trasladala` alrededor de la Tierra. Repetí esto `hasta que dé una vuelta entera`. 
+>  Construí el `programa` para que le `saque una foto` a la Luna para registrar cómo se ve desde la Tierra. Luego `trasladala` alrededor de la Tierra. Repetí esto `hasta que dé una vuelta entera`. 
