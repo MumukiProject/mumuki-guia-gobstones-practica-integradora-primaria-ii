@@ -9,4 +9,4 @@ Plutón está tan lejos del Sol y es tan chiquito, incluso más que varias lunas
 
 Aún así, lo visitaremos a él y a su asteroide más grande: Caronte. :sunglasses: 
 
-> Ejecutá el programa que hiciste para ver cuál es la distancia de Plutón a Caronte. 
+> Ejecutá el `programa` que hiciste para ver cuál es la distancia de Plutón a Caronte. 
