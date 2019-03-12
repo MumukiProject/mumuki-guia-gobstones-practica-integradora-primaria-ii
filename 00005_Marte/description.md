@@ -9,4 +9,4 @@ Una de sus características principales es la tierra colorada, igual a la de _Mi
 
 ¡Por eso, enviaremos al robot _Phoenix_ para averiguarlo!
 
-> Construí el programa para que Phoenix excave hasta encontrar hielo o plantas. Si encuentra hielo, queremos que guarde una muestra. Si no, que saque una foto.
+> Construí el `programa` para que Phoenix excave `hasta encontrar hielo o plantas`. Si encuentra hielo, queremos que `guarde una muestra`. Si no, que `saque una foto`.
