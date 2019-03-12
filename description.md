@@ -21,5 +21,5 @@ Y por si te quedaban dudas de cómo funciona la regla para recordarlos:
 **ur**ano
 <br>
 **ne**ptuno
-
+<br>
 **plu**tón
