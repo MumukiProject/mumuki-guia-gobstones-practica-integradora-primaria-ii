@@ -1,3 +1,3 @@
-¡Uff, qué diferencia de temperatura! En la cara que es de día, en Mercurio hace muuuuucho calor :cold_sweat:, ¡como 400°C! La distancia al Sol influye porque es como un horno o estufa: cuanto más cerca estés, más calor sentirás. En cambio, en la otra cara no llega el calorcito del Sol y por eso hace tanto frío, rondando los 200°C bajo cero. :confounded:
+¡Uff, qué diferencia de temperatura! En la cara que es de día, en Mercurio hace muuuuucho calor :cold_sweat:, ¡como 400°C! La distancia al Sol influye porque es como un horno o estufa: cuanto más cerca estés, más calor sentirás :fire:. En cambio, en la otra cara no llega el calorcito del Sol y por eso hace tanto frío :snowflake:, rondando los 200°C bajo cero. :confounded:
 
-Otra característica de Marte es que es un planeta rocoso :new_moon: y que no tiene satélites girando alrededor de él. :hushed: ¡Viajemos al próximo! :rocket:
+Otra característica de Mercurio es que es un planeta rocoso :new_moon: y que no tiene satélites girando alrededor de él. :hushed: ¡Viajemos al próximo! :rocket:
