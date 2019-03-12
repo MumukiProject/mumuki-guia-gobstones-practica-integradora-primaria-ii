@@ -1,3 +1,3 @@
 A diferencia de la Tierra que tiene una sola luna y Marte que tiene 2, ¡Júpiter tiene 79! Y esas son las que se conocen hasta ahora. Quizás en el futuro encontremos más. :heart_eyes:
 
-Las que vimos recién son las más grandes: Io, Europa, Calisto y Ganímedes. Se las puede ver con largavistas o telescopios, y son fáciles de reconocer porque, a diferencia de las estrellas, no titilan y brillan muchísimo. Fueron muy importantes para confirmar que los planetas giraban alrededor del Sol. :scream: 
+Las que vimos recién son las más grandes: Io, Europa, Calisto y Ganímedes. Se las puede ver con largavistas o telescopios :telescope:, y son fáciles de reconocer porque, a diferencia de las estrellas, no titilan y brillan muchísimo. Fueron muy importantes para confirmar que los planetas giraban alrededor del Sol. :scream: 
