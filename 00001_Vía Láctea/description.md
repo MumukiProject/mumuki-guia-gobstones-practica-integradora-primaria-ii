@@ -1,5 +1,6 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria-ii/master/assets/attires/config_1552415563010.json"></gs-attire>
 
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria-ii/master/assets/toolbox_1552416002661.xml"></gs-toolbox>
 
 Como te contamos, a nuestra _estrella_, el _Sol_, junto con los _planetas_ que giran a su alrededor se los llama **Sistema Solar**. Pero también hay _asteroides_ y otros cuerpos girando alrededor de los planetas, a los que llamamos _satélites_. Se espera encontrar alguno más usando telescopios espaciales. :telescope:
 
