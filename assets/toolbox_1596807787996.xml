@@ -1,0 +1,12 @@
+
+<category name="Comandos">
+  <block type="Poner"></block>
+</category>
+<category name="Procedimientos primitivos">
+</category>
+<category name="Funciones primitivas">
+</category>
+<category name="Mis procedimientos" custom="PROCEDURE_CALLS">
+</category>
+<category name="Mis funciones" custom="FUNCTION_CALLS">
+</category>
